@@ -1,6 +1,6 @@
-import * as THREE from "./build/three.module.js";
-import { FlyControls } from "./jsm/controls/FlyControls.js";
-import { Lensflare, LensflareElement } from "./jsm/objects/Lensflare.js";
+import * as THREE from "build/three.module.js";
+import { FlyControls } from "jsm/controls/FlyControls.js";
+import { Lensflare, LensflareElement } from "jsm/objects/Lensflare.js";
 
 const domElement = document.querySelector("#myCanvas");
 
